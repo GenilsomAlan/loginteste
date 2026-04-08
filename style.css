@@ -7,7 +7,7 @@ body{
     background-image: url("TranscodedWallpaper.jfif");
     background-size: 100%;
     background-repeat: no-repeat;
-    display: block;
+    display: flex;
     justify-content: space-around;
 }
 .cardLogin{
