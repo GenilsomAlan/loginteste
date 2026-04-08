@@ -8,7 +8,7 @@ body{
     background-size: 100%;
     background-repeat: no-repeat;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .cardLogin{
     width: 350px;
